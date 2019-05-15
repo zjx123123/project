@@ -89,7 +89,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
 					<executable>true</executable>
-					<fork>true</fork>
+					<fork>true</fork>  
 					<!-- JMX的端口不能重复 -->
 					<jmxPort>9002</jmxPort>
 				</configuration>

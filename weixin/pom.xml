@@ -79,7 +79,7 @@
 			<!-- <version>4.12</version> -->
 		</dependency>
 	</dependencies>
-
+ 
 	<build>
 		<plugins>
 			<!-- 可选的，Spring Boot的Maven插件，用于生成jar文件的时候，把所有相关文件全部打包在一起 -->
